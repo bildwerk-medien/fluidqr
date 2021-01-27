@@ -1,6 +1,6 @@
 # fluidqr
 
-A new Flutter project.
+The frontend code for the fluidqr application developed by [bild:werk]
 
 ## Getting Started
 
